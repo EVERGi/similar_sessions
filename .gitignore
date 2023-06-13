@@ -14,6 +14,7 @@ results/lgb_360_energy.pkl
 results/lgb_480_duration.pkl
 results/lgb_480_energy.pkl
 results/mae_duration.csv
+manuscript/
 results/similar_sessions_duration_30.pkl
 results/similar_sessions_duration_60.pkl
 results/similar_sessions_duration_120.pkl
@@ -26,3 +27,5 @@ results/similar_sessions_energy_120.pkl
 results/similar_sessions_energy_240.pkl
 results/similar_sessions_energy_360.pkl
 results/similar_sessions_energy_480.pkl
+notebooks/06-analyze_methods_slides.ipynb
+results/similar_sessions_duration.csv
