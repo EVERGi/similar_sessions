@@ -50,6 +50,7 @@ cd paper-code-repository
 ## Citation
 If you find this code or the associated paper useful for your research, please consider citing it using the following BibTeX entry:
 
+```
 @article{authorlastname2023title,
   title={Forecasting flexibility of charging of electric vehicles: Tree and cluster-based methods},
   author={Genov et al.},
@@ -59,6 +60,7 @@ If you find this code or the associated paper useful for your research, please c
   number={121969},
   doi={10.1016/121969}
 }
+```
 
 ## License
 This code is provided under the MIT License.
