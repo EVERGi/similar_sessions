@@ -51,7 +51,7 @@ cd paper-code-repository
 If you find this code or the associated paper useful for your research, please consider citing it using the following BibTeX entry:
 
 ```
-@article{authorlastname2023title,
+@article{genov_similar_sessions,
   title={Forecasting flexibility of charging of electric vehicles: Tree and cluster-based methods},
   author={Genov et al.},
   journal={Applied Energy},
