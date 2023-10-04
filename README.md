@@ -1,6 +1,6 @@
-# Paper Code Repository
+# Similar Sessions Forecasting Repository
 
-This repository contains the code for the paper titled "**Title of the Paper**," which can be found [here](https://authors.elsevier.com/sd/article/S0306-2619(23)01333-8).
+This repository contains the code for the paper titled "**Forecasting flexibility of charging of electric vehicles: Tree and cluster-based methods**," which can be found [here](https://authors.elsevier.com/sd/article/S0306-2619(23)01333-8).
 
 ## Overview
 
@@ -23,6 +23,7 @@ To run the code in these notebooks, you will need to install the required Python
 
 ```bash
 pip install -r requirements.txt
+```
 
 Make sure you have Python installed on your system before running this command.
 
@@ -32,11 +33,13 @@ Make sure you have Python installed on your system before running this command.
 
    ```bash
    git clone https://github.com/EVERGi/similar_sessions/
+   ```
 
 2. Navigate to the project directory:
 
 ```bash
 cd paper-code-repository
+```
 
 3. Install the required Python packages as mentioned above.
 
